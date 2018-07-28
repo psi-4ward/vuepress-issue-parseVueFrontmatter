@@ -1,0 +1,17 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "repository": "-",
+  "author": "-",
+  "license": "-",
+  "private": false,
+  "scripts": {
+    "dev": "vuepress dev archive",
+    "build": "vuepress build archive"
+  },
+  "dependencies": {
+    "vuepress": "^0.13.0",
+    "node-sass": "^4.9.0",
+    "sass-loader": "^7.0.3"
+  }
+}
