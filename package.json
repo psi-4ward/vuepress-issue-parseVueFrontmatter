@@ -10,8 +10,8 @@
     "build": "vuepress build archive"
   },
   "dependencies": {
-    "vuepress": "^0.13.0",
-    "node-sass": "^4.9.0",
-    "sass-loader": "^7.0.3"
+    "vuepress": "^1.0.0-alpha.29",
+    "node-sass": "^4.11.0",
+    "sass-loader": "^7.1.0"
   }
 }
